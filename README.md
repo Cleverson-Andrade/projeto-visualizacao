@@ -32,7 +32,7 @@ O script gera automaticamente três tipos de representações visuais fundamenta
 
 ## 📂 Arquivos do Repositório
 
-* `projeto_visualizacao_dados.py`: Código-fonte Python responsável pela carga dos dados, plotagem dos gráficos e compilação nativa do relatório.
+* `visualizacao_dados.py`: Código-fonte Python responsável pela carga dos dados, plotagem dos gráficos e compilação nativa do relatório.
 * `USD_BRL_hist.csv`: Base de dados real contendo o histórico de cotações diárias para cruzamento de indicadores.
 
 ---
